@@ -1,9 +1,9 @@
-name: TheBridge
+name: Guns
 main: SandhyR\TheBridge\TheBridge
-author: SandhyR
+author: ItsToxicGG
 api: 4.0.0
 version: 1.0
 
 permissions:
-  thebridge.set:
+  guns.set:
     default: op
